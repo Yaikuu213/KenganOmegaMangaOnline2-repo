@@ -2,9 +2,9 @@
   {
     "id": "kengan-manga-custom",
     "name": "Kengan Manga Online",
-    "pkg": "eu.kanade.tachiyomi.extension.en.kenganmanga",
+    "pkgName": "eu.kanade.tachiyomi.extension.en.kenganmanga",
     "lang": "en",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "code": 1,
     "nsfw": 0,
     "icon": "icon.png"
