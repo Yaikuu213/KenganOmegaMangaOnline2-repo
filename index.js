@@ -27,3 +27,6 @@ class KenganManga {
         return pages;
     }
 }
+
+// LA LIGNE À NE PAS OUBLIER :
+export default new KenganManga();
