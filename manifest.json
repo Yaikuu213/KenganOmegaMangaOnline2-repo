@@ -1,0 +1,11 @@
+{
+  "id": "kengan-manga-custom",
+  "name": "Kengan Manga Online",
+  "pkgName": "eu.kanade.tachiyomi.extension.en.kenganmanga",
+  "lang": "en",
+  "baseUrl": "https://w15.kengan-manga.com",
+  "version": 1,
+  "isNsfw": false,
+  "hasCloudflare": false,
+  "icon": "icon.png"
+}
